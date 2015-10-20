@@ -1,0 +1,7 @@
+Motion          KEYWORD1
+init            KEYWORD2
+moving          KEYWORD2
+intensity       KEYWORD2
+xIntensity      KEYWORD2
+yIntensity      KEYWORD2
+zIntensity      KEYWORD2
